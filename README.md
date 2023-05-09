@@ -25,9 +25,10 @@ UPDATE таблица SET столбец = "значение" WHERE (и доба
 _____
 
 ### Read
-```SELECT * FROM схема.таблица;```
+```SELECT * FROM lavka.country;```
 >Выборка всех данных из таблицы
-
+>
+>![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
 
 ```SELECT столбец, столбец FROM таблица;```
 >Выборка определенных столбцов из таблицы;
