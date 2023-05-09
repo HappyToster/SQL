@@ -46,12 +46,15 @@ _____
 >
 ![image](https://github.com/HappyToster/SQL/assets/97261554/e88b256a-b86e-4ef1-bd40-fd9403cc4ae0)
 
-```SELECT * FROM таблица WHERE столбец = "УСЛОВИЕ";```
+```SELECT * FROM online_store.goods WHERE id_manufacturer ="1";```
 >Выборка  по условию&&&&&&&&&
+
 ![image](https://github.com/HappyToster/SQL/assets/97261554/30ce515e-afbc-4e0f-8bf1-d1ef9212ebfe)
 
-```SELECT СТОЛБЕЦ1 AS НОВЫЙ_СТОЛБЕЦ FROM ТАБЛ;```
+```SELECT name AS product_name FROM online_store.goods;```
 >Поменять название столбца при выводе
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/fcb4a128-ca80-4272-8f10-f42851fe82d7)
 
 SELECT СТОЛБЕЦ, СТОЛБЕЦ........ МОЖНО ДОБ ОПЕРАЦИЮ, НАПР УМНОЖЕНИЕ NEW*NEW1 AS RESULT FROM ТАБЛ 
 
