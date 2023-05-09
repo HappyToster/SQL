@@ -2,10 +2,11 @@
 Привет!) Здесь о том, как я изучала запросы SQL и работала в MySQL Workbench и Shell в рамках интенсива от "Школы седого тестировщика".
 
 ## Оглавление
-1. Create
-2. Read
-3. Update
-4. Delete
+1. [Create](#create)
+2. [Read](#create)
+ 1. [Простые селекты]()
+4. [Update](#update)
+5. [Delete](#delete)
 
 _____
 
@@ -25,6 +26,7 @@ UPDATE таблица SET столбец = "значение" WHERE (и доба
 _____
 
 ### Read
+#### Простые селекты
 >Показать список баз данных
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/350da904-e02c-475d-9c81-3c0da632fe93)
