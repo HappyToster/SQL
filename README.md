@@ -49,7 +49,9 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/41b33fb5-9e97-4be7-8b16-359c24571889)
 
-SELECT СТОЛБЕЦ, СТОЛБЕЦ........ МОЖНО ДОБ ОПЕРАЦИЮ, НАПР УМНОЖЕНИЕ NEW*NEW1 AS RESULT FROM ТАБЛ 
+>ДОБАВИТЬ ОПЕРАЦИЮ
+![image](https://github.com/HappyToster/SQL/assets/97261554/e9225515-1ca5-4cb6-9eab-5b7a4c3b7ee7)
+ 
 
 SELECT......FROM ТАБЛ WHERE СТОЛБЕЦ1 < УСЛОВИЕ1 AND СТОБЛЕЦ2 > УСЛОВИЕ2 (ВЫРАЖЕНИЕ)
 ТАК МОЖНО ВЫБОРКУ ПО ДАТЕ СДЕЛАТЬ
