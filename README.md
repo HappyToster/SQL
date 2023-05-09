@@ -136,7 +136,7 @@ _____
 
 >Товары с минимальной стоимостью в каждой категории
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/cf9983da-22a8-438b-a4bd-aade7e47a3ea)
+![image](https://github.com/HappyToster/SQL/assets/97261554/76e3c3cb-345d-48dd-888f-a7914f1fd0f4)
 
 >Товар с наименьшей ценой
 
