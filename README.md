@@ -90,6 +90,22 @@ _____
 ![image](https://github.com/HappyToster/SQL/assets/97261554/9e0bbc7b-247f-4681-8931-b9b7241361ab)
 
 #### Групповые запросы
+>Количество позиций по определенной категории, сортировка по названию категории (по алфавиту)
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/18a3d7e2-de54-449c-ada7-2ea0ddf3a461)
+
+>Общая стоимость и количество позиций по категориям
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/1aab4d92-6d99-4a1a-a955-a832f1518259)
+
+>Общая стоимость всех товаров из категории Электроинструмент
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/69c8f926-201c-406f-98d8-d50d8f4cb88f)
+
+>Общая стоимость и количество товаров в категории Бокорезы, кусачки
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/25657928-636a-46e6-b704-6f7c5e707629)
+
 
 #### Вложенные запросы
 
