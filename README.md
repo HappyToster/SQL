@@ -41,11 +41,14 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
 
-```SELECT name, id_category FROM online_store.goods;```
+```SELECT
+name, id_category 
+FROM
+goods;```
 >Выборка определенных столбцов из таблицы
->
-![image](https://github.com/HappyToster/SQL/assets/97261554/e88b256a-b86e-4ef1-bd40-fd9403cc4ae0)
 
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/1ba2a8d5-2c65-468f-92f3-7be4b3c31fec)
 ```SELECT * FROM online_store.goods WHERE id_manufacturer ="1";```
 >Выборка  по условию&&&&&&&&&
 
