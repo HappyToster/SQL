@@ -191,9 +191,13 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/1816276e-4824-4b82-9f36-d4b0ca6e7485)
 
-```Покажи покупателей из России с их городом```
+```Покажи покупателей из России с их городом. Сортировка имён по алфавиту```
 
+![image](https://github.com/HappyToster/SQL/assets/97261554/87e44ec3-1aa5-4044-acb7-64812557d0e5)
 
+```Покажи список адресов и количество покупателей из них```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/c23c8f1c-b8de-4492-a4bb-90932fc24b27)
 
 _____
 
