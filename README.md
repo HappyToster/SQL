@@ -47,7 +47,7 @@ _____
 
 >Поменять название столбца при выводе
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/fcb4a128-ca80-4272-8f10-f42851fe82d7)
+![image](https://github.com/HappyToster/SQL/assets/97261554/41b33fb5-9e97-4be7-8b16-359c24571889)
 
 SELECT СТОЛБЕЦ, СТОЛБЕЦ........ МОЖНО ДОБ ОПЕРАЦИЮ, НАПР УМНОЖЕНИЕ NEW*NEW1 AS RESULT FROM ТАБЛ 
 
