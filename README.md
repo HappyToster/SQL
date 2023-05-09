@@ -25,6 +25,11 @@ UPDATE таблица SET столбец = "значение" WHERE (и доба
 _____
 
 ### Read
+```SHOW DATABASES;```
+>Показать список баз данных
+>
+![image](https://github.com/HappyToster/SQL/assets/97261554/350da904-e02c-475d-9c81-3c0da632fe93)
+
 ```SELECT * FROM lavka.country;```
 >Выборка всех данных из таблицы
 >
