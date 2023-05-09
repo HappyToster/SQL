@@ -25,36 +25,26 @@ UPDATE таблица SET столбец = "значение" WHERE (и доба
 _____
 
 ### Read
-```SHOW DATABASES;```
 >Показать список баз данных
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/350da904-e02c-475d-9c81-3c0da632fe93)
 
-```SHOW TABLES;```
 >Показать список таблиц в базе
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/7eb24c5a-d74f-4870-ac65-95ce79dfc945)
 
-
-```SELECT * FROM lavka.country;```
 >Выборка всех данных из таблицы
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
-
-```SELECT
-name, id_category 
-FROM goods;```
 
 >Выборка определенных столбцов из таблицы
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/1ba2a8d5-2c65-468f-92f3-7be4b3c31fec)
 
-```SELECT * FROM online_store.goods WHERE id_manufacturer ="1";```
 >Выборка  по условию&&&&&&&&&
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/30ce515e-afbc-4e0f-8bf1-d1ef9212ebfe)
 
-```SELECT name AS product_name FROM online_store.goods;```
 >Поменять название столбца при выводе
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/fcb4a128-ca80-4272-8f10-f42851fe82d7)
