@@ -104,7 +104,12 @@ _____
 
 >Общая стоимость и количество товаров в категории Бокорезы, кусачки
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/25657928-636a-46e6-b704-6f7c5e707629)
+![image](https://github.com/HappyToster/SQL/assets/97261554/b9530650-9ffa-43e7-8b33-754aea90c7dd)
+
+>Минимальная стоимость товара в категории Модельный скотч
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/44f83f7e-7b97-470f-8f67-c22414de9f04)
+
 
 
 #### Вложенные запросы
