@@ -175,7 +175,10 @@ _____
 ![image](https://github.com/HappyToster/SQL/assets/97261554/b817e77a-b19a-4d28-a958-f31dca98919a)
 
 #### Join
-	
+```Покажи имена и адреса (включая город и страну) покупателей, которые сделали покупку 6 апреля 2022```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/ad3bf481-0b20-4964-a414-66ad03b232ac)
+
 _____
 
 ### Update
