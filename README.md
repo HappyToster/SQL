@@ -82,10 +82,20 @@ _____
 ![image](https://github.com/HappyToster/SQL/assets/97261554/7b52e790-fcc1-4233-828d-088c06014db3)
 							
 										
-SELECT * FROM ТАБЛ WHERE СТОЛБ IN ('ЗНАЧ1', 'ЗНАЧ2'...) - ПОЯВЯТСЯ ТОЛЬКО ЗНАЧ В СКОБКАХ										
-										
-SELECT * FROM ТАБЛ ORDER BY СТОЛБ ПО КОТ ДЕЛАЕМ УПОР-НИЕ ASC ИЛИ DESC										
-										
+SELECT * FROM ТАБЛ WHERE СТОЛБ IN ('ЗНАЧ1', 'ЗНАЧ2'...) - ПОЯВЯТСЯ ТОЛЬКО ЗНАЧ В СКОБКАХ						
+
+>По возрастанию
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/8ef487eb-549c-4d7f-928c-0f50c78ed66e)
+
+>ПО УБЫВАНИЮ
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/07da9260-a944-41a4-93a0-b38b05b8e473)
+
+>иСКЛЮЧАЕТ ЗНАЧЕНИЕ
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/9e0bbc7b-247f-4681-8931-b9b7241361ab)
+	
 _____
 
 ### Update
