@@ -73,9 +73,14 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/01ea2703-fab2-4ae8-af16-f2068b5b7c4c)
 
-SELECT * FROM ТАБЛ WHERE СТОЛБ BETWEEN 2 AND 3 - ВЫВОДИТ ВКЛЮЧИТЕЛЬНО										
+>ВЫВОДИТ ВКЛЮЧИТЕЛЬНО
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/a763736c-02db-4d06-9052-4311e1ff7223)
 										
-SELECT * FROM ТАБЛ WHERE СТОЛБ NOT IN ('ЗНАЧ1', 'ЗНАЧ2'...) - НЕ ТАКОЙ И НЕ ТАКОЙ. ОТСЕКАЕТ ЗНАЧЕНИЯ В СКОБКАХ										
+>НЕ ТАКОЙ И НЕ ТАКОЙ. ОТСЕКАЕТ ЗНАЧЕНИЯ В СКОБКАХ
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/7b52e790-fcc1-4233-828d-088c06014db3)
+							
 										
 SELECT * FROM ТАБЛ WHERE СТОЛБ IN ('ЗНАЧ1', 'ЗНАЧ2'...) - ПОЯВЯТСЯ ТОЛЬКО ЗНАЧ В СКОБКАХ										
 										
