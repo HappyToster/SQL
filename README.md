@@ -81,8 +81,9 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/7b52e790-fcc1-4233-828d-088c06014db3)
 							
-										
-SELECT * FROM ТАБЛ WHERE СТОЛБ IN ('ЗНАЧ1', 'ЗНАЧ2'...) - ПОЯВЯТСЯ ТОЛЬКО ЗНАЧ В СКОБКАХ						
+>ПОЯВЯТСЯ ТОЛЬКО ЗНАЧ В СКОБКАХ
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/e403382c-dae1-4ae9-a92e-e7f8d5ce07f4)
 
 >По возрастанию
 
