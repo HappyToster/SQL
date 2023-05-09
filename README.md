@@ -41,10 +41,8 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
 
-```SELECT
-name, id_category 
-FROM
-goods;```
+```SELECT name, id_category 
+FROM goods;```
 
 >Выборка определенных столбцов из таблицы
 
