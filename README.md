@@ -43,7 +43,7 @@ _____
 
 >Выборка  по условию&&&&&&&&&
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/30ce515e-afbc-4e0f-8bf1-d1ef9212ebfe)
+![image](https://github.com/HappyToster/SQL/assets/97261554/25b32989-afa3-444a-906e-92f838364923)
 
 >Поменять название столбца при выводе
 
