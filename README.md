@@ -89,6 +89,8 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/9e0bbc7b-247f-4681-8931-b9b7241361ab)
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
+
 #### Групповые запросы
 ```Количество позиций по определенной категории, сортировка по названию категории (по алфавиту)```
 
@@ -158,6 +160,8 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/8441b632-600d-4098-a529-aa9c04d2e168)
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
+
 #### Вложенные запросы
 ```Товар с наименьшей ценой```
 
@@ -173,6 +177,8 @@ _____
 ```Составить запрос для таблицы product: Показать только те товары, у которых общая стоимость меньше самой большой средней стоимости товара каждой категории.```
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/b817e77a-b19a-4d28-a958-f31dca98919a)
+
+[:arrow_up:Вернуться к оглавлению](#оглавление)
 
 #### Join
 ```Покажи имена и адреса (включая город и страну) покупателей, которые сделали покупку 6 апреля 2022```
@@ -199,6 +205,7 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/c23c8f1c-b8de-4492-a4bb-90932fc24b27)
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
 _____
 
 ### Update
@@ -227,6 +234,8 @@ VALUES
 ('19x20x2','110');
 );
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
+
 #### Set
 ```Изменение данных в ячейках родительской таблицы```
 USE online_store;
@@ -243,6 +252,8 @@ UPDATE goods SET id_manufacturer = "3" WHERE id_product = "3";
 UPDATE goods SET id_manufacturer = "2" WHERE id_product = "4";
 UPDATE goods SET id_manufacturer = "1" WHERE id_product = "5";
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
+
 #### Change
 ```Переименование полей родительской таблицы```
 USE online_store;
@@ -250,7 +261,8 @@ ALTER TABLE goods
   CHANGE category id_category VARCHAR (45) NOT NULL, 
   CHANGE manufacturer id_manufacturer VARCHAR (45) NOT NULL;
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
 _____
 
 ### Delete
-[Оглавление](#оглавление)
+[:arrow_up:Вернуться к оглавлению](#оглавление)
