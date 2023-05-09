@@ -92,11 +92,11 @@ _____
 #### Групповые запросы
 >Количество позиций по определенной категории, сортировка по названию категории (по алфавиту)
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/18a3d7e2-de54-449c-ada7-2ea0ddf3a461)
+![image](https://github.com/HappyToster/SQL/assets/97261554/cb90afc4-38e4-4410-be39-8cb89c376e89)
 
 >Общая стоимость и количество позиций по категориям
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/1aab4d92-6d99-4a1a-a955-a832f1518259)
+![image](https://github.com/HappyToster/SQL/assets/97261554/9b828ec2-fbf9-436a-a3a6-9c31439315c2)
 
 >Общая стоимость всех товаров из категории Электроинструмент
 
