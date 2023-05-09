@@ -128,11 +128,19 @@ _____
 
 >Максимальная и минимальная цена товаров, общая сумма которых >10000
 
+![image](https://github.com/HappyToster/SQL/assets/97261554/e5ff54b2-f0bb-4b0f-88ea-314609615b57)
+
 >Максимальная и минимальная цена товаров, общая сумма которых больше 10000, исключая категорию Электроинструмент
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/c64b0f44-e9a0-41ee-8dac-69cd6b9b6aff)
 
 >Товары с минимальной стоимостью в каждой категории
 
+![image](https://github.com/HappyToster/SQL/assets/97261554/cf9983da-22a8-438b-a4bd-aade7e47a3ea)
+
 >Товар с наименьшей ценой
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/95514843-55d3-4439-80f1-62cb370929c7)
 
 #### Вложенные запросы
 
