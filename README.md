@@ -39,24 +39,26 @@ _____
 
 >Выборка определенных столбцов из таблицы
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/1ba2a8d5-2c65-468f-92f3-7be4b3c31fec)
+![image](https://github.com/HappyToster/SQL/assets/97261554/c78a962a-43f3-4cae-9f23-4cc90f73dc98)
 
 >Выборка  по условию&&&&&&&&&
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/25b32989-afa3-444a-906e-92f838364923)
+![image](https://github.com/HappyToster/SQL/assets/97261554/4136d2ca-aa09-4914-b429-7fbca3bbfd3f)
 
 >Поменять название столбца при выводе
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/41b33fb5-9e97-4be7-8b16-359c24571889)
+![image](https://github.com/HappyToster/SQL/assets/97261554/3057a83b-df78-428b-97cf-13edd3b377f3)
 
 >ДОБАВИТЬ ОПЕРАЦИЮ
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/e9225515-1ca5-4cb6-9eab-5b7a4c3b7ee7)
- 
+![image](https://github.com/HappyToster/SQL/assets/97261554/679a729e-7d31-4470-9a29-e176777cdc74)
+
 >ЦЕНА ВЫШЕ 500
+>
 ![image](https://github.com/HappyToster/SQL/assets/97261554/ca1ea653-c881-4874-84ce-2e01f42889ba)
 
->
+>БАЛ
+
 ![image](https://github.com/HappyToster/SQL/assets/97261554/491a0a11-ecf7-4431-8f00-48153a73b052)
 
 SELECT * FROM ТАБЛ WHERE СТОЛБ BETWEEN 2 AND 3 - ВЫВОДИТ ВКЛЮЧИТЕЛЬНО										
