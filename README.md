@@ -39,12 +39,12 @@ _____
 ```SELECT * FROM lavka.country;```
 >Выборка всех данных из таблицы
 
->![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
+![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
 
 ```SELECT name, id_category FROM online_store.goods;```
 >Выборка определенных столбцов из таблицы;
 >
->![image](https://github.com/HappyToster/SQL/assets/97261554/e88b256a-b86e-4ef1-bd40-fd9403cc4ae0)
+![image](https://github.com/HappyToster/SQL/assets/97261554/e88b256a-b86e-4ef1-bd40-fd9403cc4ae0)
 
 ```SELECT * FROM таблица WHERE столбец = "УСЛОВИЕ";```
 >
