@@ -54,12 +54,12 @@ _____
 ![image](https://github.com/HappyToster/SQL/assets/97261554/679a729e-7d31-4470-9a29-e176777cdc74)
 
 >ЦЕНА ВЫШЕ 500
->
-![image](https://github.com/HappyToster/SQL/assets/97261554/ca1ea653-c881-4874-84ce-2e01f42889ba)
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/536188fd-e487-40ca-9333-dc9d22d18ed9)
 
 >БАЛ
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/491a0a11-ecf7-4431-8f00-48153a73b052)
+![image](https://github.com/HappyToster/SQL/assets/97261554/1d5d1494-c299-4cf4-b4ce-86e9163d6bfb)
 
 SELECT * FROM ТАБЛ WHERE СТОЛБ BETWEEN 2 AND 3 - ВЫВОДИТ ВКЛЮЧИТЕЛЬНО										
 										
