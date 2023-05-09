@@ -42,12 +42,13 @@ _____
 ![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
 
 ```SELECT name, id_category FROM online_store.goods;```
->Выборка определенных столбцов из таблицы;
+>Выборка определенных столбцов из таблицы
 >
 ![image](https://github.com/HappyToster/SQL/assets/97261554/e88b256a-b86e-4ef1-bd40-fd9403cc4ae0)
 
 ```SELECT * FROM таблица WHERE столбец = "УСЛОВИЕ";```
->
+>Выборка  по условию&&&&&&&&&
+![image](https://github.com/HappyToster/SQL/assets/97261554/30ce515e-afbc-4e0f-8bf1-d1ef9212ebfe)
 
 ```SELECT СТОЛБЕЦ1 AS НОВЫЙ_СТОЛБЕЦ FROM ТАБЛ;```
 >Поменять название столбца при выводе
