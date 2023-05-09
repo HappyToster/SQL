@@ -45,6 +45,7 @@ _____
 name, id_category 
 FROM
 goods;```
+
 >Выборка определенных столбцов из таблицы
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/1ba2a8d5-2c65-468f-92f3-7be4b3c31fec)
