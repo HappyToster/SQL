@@ -165,7 +165,7 @@ _____
 _____
 
 ### Update
-
+#### Insert
 ```Добавление данных в дочерние таблицы```
 INSERT INTO category (id_category, category)
 VALUES
@@ -180,13 +180,17 @@ VALUES
 ('1','MACHETE'),	
 ('2','Звезда'),	
 ('3','KAV models');
+```Добавление полей в родительскую таблицу```
+INSERT INTO goods (pack size, gross weight)
+VALUES
+('NULL','0'),
+('21x7x1','15'),
+('6x3x2','17'),
+('16x13x3','60'),
+('19x20x2','110');
+);
 
-```Переименование полей родительской таблицы```
-USE online_store;
-ALTER TABLE goods
-  CHANGE category id_category VARCHAR (45) NOT NULL, 
-  CHANGE manufacturer id_manufacturer VARCHAR (45) NOT NULL;
-
+#### Set
 ```Изменение данных в ячейках родительской таблицы```
 USE online_store;
 UPDATE goods SET id_category = "1" WHERE id_product = "1";
@@ -202,21 +206,12 @@ UPDATE goods SET id_manufacturer = "3" WHERE id_product = "3";
 UPDATE goods SET id_manufacturer = "2" WHERE id_product = "4";
 UPDATE goods SET id_manufacturer = "1" WHERE id_product = "5";
 
-
-#### Insert
-```Добавление полей в родительскую таблицу```
-INSERT INTO goods (pack size, gross weight)
-VALUES
-('NULL','0'),
-('21x7x1','15'),
-('6x3x2','17'),
-('16x13x3','60'),
-('19x20x2','110');
-);
-#### Set
-
 #### Change
-UPDATE ТАБЛ SET СТОЛБ = "ЗНАЧ" WHERE ID > 0; ТАК ДЕЛАЕМ, ЧТОБ ОБОЙТИ БЕЗОПАСНЫЙ РЕЖИМ. ИЛИ МОЖНО КОНКРЕТНУЮ СТРОКУ УКАЗАТЬ, НАПР ID = 4	
+```Переименование полей родительской таблицы```
+USE online_store;
+ALTER TABLE goods
+  CHANGE category id_category VARCHAR (45) NOT NULL, 
+  CHANGE manufacturer id_manufacturer VARCHAR (45) NOT NULL;
 
 _____
 
