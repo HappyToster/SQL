@@ -50,12 +50,14 @@ _____
 ![image](https://github.com/HappyToster/SQL/assets/97261554/41b33fb5-9e97-4be7-8b16-359c24571889)
 
 >ДОБАВИТЬ ОПЕРАЦИЮ
+
 ![image](https://github.com/HappyToster/SQL/assets/97261554/e9225515-1ca5-4cb6-9eab-5b7a4c3b7ee7)
  
+>ЦЕНА ВЫШЕ 500
+![image](https://github.com/HappyToster/SQL/assets/97261554/ca1ea653-c881-4874-84ce-2e01f42889ba)
 
-SELECT......FROM ТАБЛ WHERE СТОЛБЕЦ1 < УСЛОВИЕ1 AND СТОБЛЕЦ2 > УСЛОВИЕ2 (ВЫРАЖЕНИЕ)
-ТАК МОЖНО ВЫБОРКУ ПО ДАТЕ СДЕЛАТЬ
 >
+![image](https://github.com/HappyToster/SQL/assets/97261554/491a0a11-ecf7-4431-8f00-48153a73b052)
 
 SELECT * FROM ТАБЛ WHERE СТОЛБ BETWEEN 2 AND 3 - ВЫВОДИТ ВКЛЮЧИТЕЛЬНО										
 										
