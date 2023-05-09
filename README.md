@@ -179,6 +179,22 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/ad3bf481-0b20-4964-a414-66ad03b232ac)
 
+```Покажи наименование, цену, категорию и производителя товаров, которые дороже 100р```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/78b52fc0-2534-40c5-9d77-034611dbb0ad)
+
+```Покажи покупателей из Минска```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/e4cb6ac1-aee7-4dec-80c4-c5036994eeb2)
+
+```Покажи все товары с их категориями, сортировка по названию категории```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/1816276e-4824-4b82-9f36-d4b0ca6e7485)
+
+```Покажи покупателей из России с их городом```
+
+
+
 _____
 
 ### Update
