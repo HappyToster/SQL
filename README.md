@@ -175,7 +175,7 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/78b52fc0-2534-40c5-9d77-034611dbb0ad)
 
-:white_check_mark: Покупателя из Минска
+:white_check_mark: Покупатели из Минска
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/e4cb6ac1-aee7-4dec-80c4-c5036994eeb2)
 
