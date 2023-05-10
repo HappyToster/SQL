@@ -87,7 +87,7 @@ CREATE TABLE название таблицы (
 
 :white_check_mark: Исключить товары производителя с id "2"
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/9e0bbc7b-247f-4681-8931-b9b7241361ab)
+![image](https://github.com/HappyToster/SQL/assets/97261554/a4e17470-8af9-4ac7-800d-8b0cfc2242c5)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
