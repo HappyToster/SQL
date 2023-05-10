@@ -224,7 +224,7 @@ _____
 _____
 
 #### Set
-```Изменение данных в ячейках родительской таблицы```
+:white_check_mark: Изменение данных в ячейках
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/b6c5e449-13ba-40a8-9462-6ea12aad8f02)
 
@@ -233,7 +233,7 @@ _____
 _____
 
 #### Change
-```Переименование полей родительской таблицы```
+:white_check_mark: Переименование полей
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/699a7bc4-737c-4721-9fdd-f3341a1c934f)
 
