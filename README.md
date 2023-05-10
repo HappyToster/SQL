@@ -43,7 +43,7 @@ CREATE TABLE название таблицы (
 
 :white_check_mark: Товары производителя с id "1"
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/4136d2ca-aa09-4914-b429-7fbca3bbfd3f)
+![image](https://github.com/HappyToster/SQL/assets/97261554/0eb10fe5-c1fc-4799-ae4e-9a64bafe1734)
 
 :white_check_mark: Поменять название столбца при выводе
 
