@@ -147,22 +147,6 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/95514843-55d3-4439-80f1-62cb370929c7)
 
-:white_check_mark: Сумма товаров в категории меньше минимальной средней стоимости
-
-![image](https://github.com/HappyToster/SQL/assets/97261554/1f22f9ab-939f-4984-ae51-4a7a938f7000)
-
-:white_check_mark: Сумма товаров в категории больше максимальной средней стоимости
-
-![image](https://github.com/HappyToster/SQL/assets/97261554/2b071176-a06e-4950-82ca-8f447b4650d9)
-
-:white_check_mark: Сумма товаров в категории меньше максимальной средней стоимости
-
-![image](https://github.com/HappyToster/SQL/assets/97261554/ed8cffc4-152f-4c8e-acdb-a13153f843a8)
-
-:white_check_mark: Сумма товаров в категории меньше максимальной средней стоимости
-
-![image](https://github.com/HappyToster/SQL/assets/97261554/8441b632-600d-4098-a529-aa9c04d2e168)
-
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
 _____
