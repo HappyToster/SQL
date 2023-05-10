@@ -229,7 +229,7 @@ _____
 
 ```Покажи покупателей, у которых не заполнен адрес```
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/295ca3b6-999d-4e86-bef8-db710cf78efd)
+![image](https://github.com/HappyToster/SQL/assets/97261554/4480b157-b4f5-4b5e-aa91-850b86252c2b)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
