@@ -63,7 +63,7 @@ CREATE TABLE название таблицы (
 
 :white_check_mark: Товары производителей с id "1" или "2" и ценой > 20
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/0711a9bc-0edf-4d9e-9219-c2174c8c3d1d)
+![image](https://github.com/HappyToster/SQL/assets/97261554/f2799fbd-1c63-450e-a08a-1c65ce54aed1)
 
 :white_check_mark: Товары с id между "2" и "4" включительно
 
