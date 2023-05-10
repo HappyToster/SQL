@@ -71,8 +71,7 @@ CREATE TABLE название таблицы (
 
 :white_check_mark: Исключить товары производителей с id "1" и "2"
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/7b52e790-fcc1-4233-828d-088c06014db3)
-							
+![image](https://github.com/HappyToster/SQL/assets/97261554/0741696d-2de4-4f47-828c-657e1dca9e12)							
 :white_check_mark: Товары с ценой 96 и 62
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/e403382c-dae1-4ae9-a92e-e7f8d5ce07f4)
