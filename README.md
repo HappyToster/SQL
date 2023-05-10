@@ -134,8 +134,7 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/e5ff54b2-f0bb-4b0f-88ea-314609615b57)
 
-:white_check_mark: Максимальная и минимальная цена товаров,
-общая сумма которых больше 10000, 
+:white_check_mark: Максимальная и минимальная цена товаров, общая сумма которых больше 10000,
 исключая категорию "Электроинструмент"
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/c64b0f44-e9a0-41ee-8dac-69cd6b9b6aff)
