@@ -245,29 +245,7 @@ _____
 
 ### Update
 #### Insert
-```Добавление данных в дочерние таблицы```
-INSERT INTO category (id_category, category)
-VALUES
-('1','Tools'),
-('2','Клей'),
-('3','Миниатюра и диорама'),
-('4','Модели и подставки'),
-('5','Футляры и подставки');
-	
-INSERT INTO manufacturer (id_manufacturer, manufacturer)	
-VALUES	
-('1','MACHETE'),	
-('2','Звезда'),	
-('3','KAV models');
-```Добавление полей в родительскую таблицу```
-INSERT INTO goods (pack size, gross weight)
-VALUES
-('NULL','0'),
-('21x7x1','15'),
-('6x3x2','17'),
-('16x13x3','60'),
-('19x20x2','110');
-);
+![image](https://github.com/HappyToster/SQL/assets/97261554/71c6d425-3392-4a24-95bd-8fec4979017e)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -275,19 +253,8 @@ _____
 
 #### Set
 ```Изменение данных в ячейках родительской таблицы```
-USE online_store;
-UPDATE goods SET id_category = "1" WHERE id_product = "1";
-UPDATE goods SET id_category = "2" WHERE id_product = "2";
-UPDATE goods SET id_category = "3" WHERE id_product = "3";
-UPDATE goods SET id_category = "4" WHERE id_product = "4";
-UPDATE goods SET id_category = "5" WHERE id_product = "5";
 
-USE online_store;
-UPDATE goods SET id_manufacturer = "1" WHERE id_product = "1";
-UPDATE goods SET id_manufacturer = "2" WHERE id_product = "2";
-UPDATE goods SET id_manufacturer = "3" WHERE id_product = "3";
-UPDATE goods SET id_manufacturer = "2" WHERE id_product = "4";
-UPDATE goods SET id_manufacturer = "1" WHERE id_product = "5";
+![image](https://github.com/HappyToster/SQL/assets/97261554/b6c5e449-13ba-40a8-9462-6ea12aad8f02)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -295,10 +262,8 @@ _____
 
 #### Change
 ```Переименование полей родительской таблицы```
-USE online_store;
-ALTER TABLE goods
-  CHANGE category id_category VARCHAR (45) NOT NULL, 
-  CHANGE manufacturer id_manufacturer VARCHAR (45) NOT NULL;
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/699a7bc4-737c-4721-9fdd-f3341a1c934f)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
