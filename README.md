@@ -67,8 +67,8 @@ CREATE TABLE название таблицы (
 
 :white_check_mark: Товары с id между "2" и "4" включительно
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/a763736c-02db-4d06-9052-4311e1ff7223)
-										
+![image](https://github.com/HappyToster/SQL/assets/97261554/61759d6c-25b5-48fb-88e6-a5b0b048fc38)
+
 :white_check_mark: Исключить товары производителей с id "1" и "2"
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/7b52e790-fcc1-4233-828d-088c06014db3)
