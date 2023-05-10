@@ -25,19 +25,19 @@ CREATE TABLE название таблицы (
 
 ### Read
 #### Простые селекты
-```Показать список баз данных```
+:white_check_mark: Показать список баз данных
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/350da904-e02c-475d-9c81-3c0da632fe93)
 
-```Показать список таблиц в базе```
+:white_check_mark: Показать список таблиц в базе
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/7eb24c5a-d74f-4870-ac65-95ce79dfc945)
 
-```Выборка всех данных из таблицы```
+:white_check_mark: Выборка всех данных из таблицы
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
 
-```Выборка определенных столбцов из таблицы```
+:white_check_mark: Выборка определенных столбцов из таблицы
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/c78a962a-43f3-4cae-9f23-4cc90f73dc98)
 
