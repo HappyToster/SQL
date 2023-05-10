@@ -211,6 +211,26 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/c23c8f1c-b8de-4492-a4bb-90932fc24b27)
 
+```Покажи список городов и количество покупателей из них```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/7c6e38ea-a29d-4b16-b7ad-36b548b45227)
+
+```Покажи категории, в которых нет товаров```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/68258ee5-f9b3-4d5d-90a4-357a1cf0d199)
+
+```Покажи все товары и все категории (включая те, в которых нет товаров)```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/0485ce15-e887-4eee-af8a-c75a4ef404db)
+
+```Покажи все товары и категории (включая те товары, у которых нет категории)```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/cb2f8fbb-cc42-4b61-aa80-6dbe05917b1c)
+
+```Покажи покупателей, у которых не заполнен адрес```
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/295ca3b6-999d-4e86-bef8-db710cf78efd)
+
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
 _____
