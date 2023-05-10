@@ -61,23 +61,15 @@ CREATE TABLE название таблицы (
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/1d5d1494-c299-4cf4-b4ce-86e9163d6bfb)
 
-:white_check_mark: Товары производителей с айди "1" или "2" и ценой > 20
+:white_check_mark: Товары производителей с id "1" или "2" и ценой > 20
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/0711a9bc-0edf-4d9e-9219-c2174c8c3d1d)
 
-```GGG```
-
-![image](https://github.com/HappyToster/SQL/assets/97261554/5010710a-9f91-441d-ba7e-3f0aec565a31)
-
-```LLL```
-
-![image](https://github.com/HappyToster/SQL/assets/97261554/01ea2703-fab2-4ae8-af16-f2068b5b7c4c)
-
-:white_check_mark: Товары с айди между "2" и "4" включительно
+:white_check_mark: Товары с id между "2" и "4" включительно
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/a763736c-02db-4d06-9052-4311e1ff7223)
 										
-:white_check_mark: Исключить товары производителей с айди "1" и "2"
+:white_check_mark: Исключить товары производителей с id "1" и "2"
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/7b52e790-fcc1-4233-828d-088c06014db3)
 							
@@ -93,7 +85,7 @@ CREATE TABLE название таблицы (
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/07da9260-a944-41a4-93a0-b38b05b8e473)
 
-:white_check_mark: Исключить товары производителя с айди "2"
+:white_check_mark: Исключить товары производителя с id "2"
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/9e0bbc7b-247f-4681-8931-b9b7241361ab)
 
