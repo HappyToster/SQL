@@ -50,9 +50,9 @@ CREATE TABLE название таблицы (
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/3057a83b-df78-428b-97cf-13edd3b377f3)
 
-:white_check_mark: ДОБАВИТЬ ОПЕРАЦИЮ``` ПРОПУСТИЛА * 100
+:white_check_mark: Умножить вес каждого товара на 100 и вывести как результат
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/679a729e-7d31-4470-9a29-e176777cdc74)
+![image](https://github.com/HappyToster/SQL/assets/97261554/c8e5be2a-f1d6-4b2a-9910-0a04ec5d9593)
 
 :white_check_mark: Товары с ценой > 500
 
