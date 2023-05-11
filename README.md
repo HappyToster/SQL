@@ -17,12 +17,8 @@
 
 _____
 ### Create
-
-CREATE TABLE название таблицы (
-название столбца1 INT PRIMARY KEY AUTO_INCREMENT,
-название столбца2 тип данных,
-название столбца3 тип данных
-);
+:white_check_mark: Создание таблицы
+![image](https://github.com/HappyToster/SQL/assets/97261554/a8f28f36-3520-47a6-8017-6cfb9ef33b1f)
 
 ### Read
 #### Простые селекты
