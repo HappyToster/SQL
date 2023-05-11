@@ -218,7 +218,8 @@ _____
 
 ### Update
 #### Insert
-:white_check_mark: ЧТОООО
+:white_check_mark: Добавление строк в таблицу и заполнение их значениями:
+
 ![image](https://github.com/HappyToster/SQL/assets/97261554/71c6d425-3392-4a24-95bd-8fec4979017e)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
