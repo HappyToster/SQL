@@ -141,10 +141,6 @@ _____
 
 ![Alt-текст](https://i.imgur.com/5193Ex9.jpeg)
 
-:white_check_mark: Товар с наименьшей ценой:
-
-![Alt-текст](https://i.imgur.com/PU1lbog.jpeg)
-
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
 _____
