@@ -19,15 +19,13 @@ _____
 ### Create
 :white_check_mark: Создание таблицы:
 
-![Alt-текст](https://github-production-user-asset-6210df.s3.amazonaws.com/97261554/237845246-9a3765d7-060b-441f-b705-89c87a8f4da0.png "МК")
-
-![image](https://github.com/HappyToster/SQL/assets/97261554/9a3765d7-060b-441f-b705-89c87a8f4da0)
+![Alt-текст](https://github-production-user-asset-6210df.s3.amazonaws.com/97261554/237845246-9a3765d7-060b-441f-b705-89c87a8f4da0.png)
 
 ### Read
 #### Простые селекты
 :white_check_mark: Список баз данных:
 
-![image]([https://github.com/HappyToster/SQL/assets/97261554/350da904-e02c-475d-9c81-3c0da632fe93](https://github-production-user-asset-6210df.s3.amazonaws.com/97261554/237136051-350da904-e02c-475d-9c81-3c0da632fe93.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230512T010839Z&X-Amz-Expires=300&X-Amz-Signature=c74596378082c986aea868c1edea79ac6669f1729b37c8ed80556599349c470c&X-Amz-SignedHeaders=host&actor_id=97261554&key_id=0&repo_id=637644986))
+![Alt-текст](https://i.imgur.com/brm4cdd.jpeg)
 
 :white_check_mark: Список таблиц в базе:
 
@@ -35,59 +33,59 @@ _____
 
 :white_check_mark: Выборка всех данных из таблицы:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/bb8e0513-88d1-4f98-816b-e2d5ffeaca30)
+![Alt-текст](https://i.imgur.com/YOY66x5.jpeg)
 
 :white_check_mark: Выборка определенных столбцов из таблицы:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/c78a962a-43f3-4cae-9f23-4cc90f73dc98)
+![Alt-текст](https://i.imgur.com/lLpb5SA.jpeg)
 
 :white_check_mark: Товары производителя с id "1":
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/0eb10fe5-c1fc-4799-ae4e-9a64bafe1734)
+![Alt-текст](https://i.imgur.com/q5sC2xk.jpeg)
 
 :white_check_mark: Поменять название столбца при выводе:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/3057a83b-df78-428b-97cf-13edd3b377f3)
+![Alt-текст](https://i.imgur.com/ppFFBPL.jpeg)
 
 :white_check_mark: Умножить вес каждого товара на 100 и вывести как результат:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/c8e5be2a-f1d6-4b2a-9910-0a04ec5d9593)
+![Alt-текст](https://i.imgur.com/ASw8dz2.jpeg)
 
 :white_check_mark: Товары с ценой > 500:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/536188fd-e487-40ca-9333-dc9d22d18ed9)
+![Alt-текст](https://i.imgur.com/ckWv4uC.jpeg)
 
 :white_check_mark: Товары с весом < 60 и ценой > 100:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/1d5d1494-c299-4cf4-b4ce-86e9163d6bfb)
+![Alt-текст](https://i.imgur.com/cJVTGo6.jpeg)
 
 :white_check_mark: Товары производителей с id "1" или "2" и ценой > 20:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/f2799fbd-1c63-450e-a08a-1c65ce54aed1)
+![Alt-текст](https://i.imgur.com/XZbQrwz.jpeg)
 
 :white_check_mark: Товары с id между "2" и "4" включительно:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/61759d6c-25b5-48fb-88e6-a5b0b048fc38)
+![Alt-текст](https://i.imgur.com/x6UcI1z.jpeg)
 
 :white_check_mark: Исключить товары производителей с id "1" и "2":
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/0741696d-2de4-4f47-828c-657e1dca9e12)
+![Alt-текст](https://i.imgur.com/qkY8v9j.jpeg)
 
 :white_check_mark: Товары с ценой 96 и 62:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/e403382c-dae1-4ae9-a92e-e7f8d5ce07f4)
+![Alt-текст](https://i.imgur.com/pnz9A3O.jpeg)
 
 :white_check_mark: По весу по возрастанию:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/8ef487eb-549c-4d7f-928c-0f50c78ed66e)
+![Alt-текст](https://i.imgur.com/kECUa1Y.jpeg)
 
 :white_check_mark: По цене по убыванию:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/07da9260-a944-41a4-93a0-b38b05b8e473)
+![Alt-текст](https://i.imgur.com/47fjf2w.jpeg)
 
 :white_check_mark: Исключить товары производителя с id "2":
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/a4e17470-8af9-4ac7-800d-8b0cfc2242c5)
+![Alt-текст](https://i.imgur.com/brm4cdd.jpeg)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
