@@ -237,7 +237,7 @@ _____
 
 :white_check_mark: В связанных таблицах. Добавление названий категорий к названию товаров.
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/7b1939b2-b08e-4808-93ea-47fa86875ba8)
+![image](https://github.com/HappyToster/SQL/assets/97261554/bcd02496-eacd-407d-a388-7c0212504009)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
