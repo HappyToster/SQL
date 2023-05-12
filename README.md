@@ -235,7 +235,9 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/e977584a-16af-4fd1-861d-2b65c24dd43c)
 
-:white_check_mark: В связанных таблицах:
+:white_check_mark: В связанных таблицах. Добавление названий категорий к названию товаров.
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/7b1939b2-b08e-4808-93ea-47fa86875ba8)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -245,8 +247,6 @@ _____
 :white_check_mark: Переименование полей:
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/699a7bc4-737c-4721-9fdd-f3341a1c934f)
-
-:white_check_mark: В связанных таблицах:
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
