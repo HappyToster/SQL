@@ -222,6 +222,8 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/71c6d425-3392-4a24-95bd-8fec4979017e)
 
+:white_check_mark: В связанных таблицах:
+
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
 _____
@@ -229,7 +231,9 @@ _____
 #### Set
 :white_check_mark: Обновление данных в ячейках:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/b6c5e449-13ba-40a8-9462-6ea12aad8f02)
+![image](https://github.com/HappyToster/SQL/assets/97261554/e977584a-16af-4fd1-861d-2b65c24dd43c)
+
+:white_check_mark: В связанных таблицах:
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -239,6 +243,8 @@ _____
 :white_check_mark: Переименование полей:
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/699a7bc4-737c-4721-9fdd-f3341a1c934f)
+
+:white_check_mark: В связанных таблицах:
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
