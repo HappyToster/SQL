@@ -149,12 +149,12 @@ _____
 
 :white_check_mark: Товар с наименьшей ценой:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/32a60a4d-f489-43e7-a329-d97a3c8735c2)
+![Alt-текст](https://i.imgur.com/I8ZJ6Ss.jpeg)
 
 :white_check_mark: Вывести категории товаров (а так же название, цену и кол-во),
 в которых общая стоимость товаров >= 200 и количество товаров <= 10:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/c715664c-4f4e-4bda-bbc3-65d56455e807)
+![Alt-текст](https://i.imgur.com/WU2JLeC.jpeg)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -166,47 +166,47 @@ _____
 
 :white_check_mark: Имена и адреса (включая город и страну) покупателей, которые сделали покупку 6 апреля 2022:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/ad3bf481-0b20-4964-a414-66ad03b232ac)
+![Alt-текст](https://i.imgur.com/elGtom6.jpeg)
 
 :white_check_mark: Наименование, цена, категория и производитель товаров, которые дороже 100:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/78b52fc0-2534-40c5-9d77-034611dbb0ad)
+![Alt-текст](https://i.imgur.com/DsnWnul.jpeg)
 
 :white_check_mark: Покупатели из Минска:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/e4cb6ac1-aee7-4dec-80c4-c5036994eeb2)
+![Alt-текст](https://i.imgur.com/hYw0DGm.jpeg)
 
 :white_check_mark: Все товары с их категориями, сортировка по названию категории:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/1816276e-4824-4b82-9f36-d4b0ca6e7485)
+![Alt-текст](https://i.imgur.com/WMh2mFP.jpeg)
 
 :white_check_mark: Покупатели из России с их городом. Сортировка имён по алфавиту:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/87e44ec3-1aa5-4044-acb7-64812557d0e5)
+![Alt-текст](https://i.imgur.com/PUrhrSn.jpeg)
 
 :white_check_mark: Список адресов и количество покупателей из них:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/c23c8f1c-b8de-4492-a4bb-90932fc24b27)
+![Alt-текст](https://i.imgur.com/DNiP5ph.jpeg)
 
 :white_check_mark: Список городов и количество покупателей из них:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/7c6e38ea-a29d-4b16-b7ad-36b548b45227)
+![Alt-текст](https://i.imgur.com/kbvYWWc.jpeg)
 
 :white_check_mark: Категории, в которых нет товаров:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/68258ee5-f9b3-4d5d-90a4-357a1cf0d199)
+![Alt-текст](https://i.imgur.com/8URa1Pb.jpeg)
 
 :white_check_mark: Все товары и все категории (включая те, в которых нет товаров):
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/0485ce15-e887-4eee-af8a-c75a4ef404db)
+![Alt-текст](https://i.imgur.com/M1wVBoH.jpeg)
 
 :white_check_mark: Все товары и категории (включая те товары, у которых нет категории):
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/cb2f8fbb-cc42-4b61-aa80-6dbe05917b1c)
+![Alt-текст](https://i.imgur.com/lrlTox4.jpeg)
 
 :white_check_mark: Покупатели, у которых не заполнен адрес:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/4480b157-b4f5-4b5e-aa91-850b86252c2b)
+![Alt-текст](https://i.imgur.com/QlNc8uD.jpeg)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -216,11 +216,11 @@ _____
 #### Insert
 :white_check_mark: Добавление строк в таблицу и заполнение их значениями:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/71c6d425-3392-4a24-95bd-8fec4979017e)
+![Alt-текст](https://i.imgur.com/B5WEwkM.jpeg)
 
 :white_check_mark: В связанных таблицах. Добавление в таблицу unactive_user пользователей, которые не совершали ни одной покупки:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/1b89682d-ef6f-40d8-a1df-ec74cc85934f)
+![Alt-текст](https://i.imgur.com/TnfuYCR.jpeg)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -229,11 +229,11 @@ _____
 #### Set
 :white_check_mark: Обновление данных в ячейках:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/e977584a-16af-4fd1-861d-2b65c24dd43c)
+![Alt-текст](https://i.imgur.com/lrZGeOy.jpeg)
 
 :white_check_mark: В связанных таблицах. Добавление названий категорий к названию товаров.
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/bcd02496-eacd-407d-a388-7c0212504009)
+![Alt-текст](https://i.imgur.com/oCYUAeB.jpeg)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
@@ -242,7 +242,7 @@ _____
 #### Change
 :white_check_mark: Переименование полей:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/699a7bc4-737c-4721-9fdd-f3341a1c934f)
+![Alt-текст](https://i.imgur.com/YjX0ocn.jpeg)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
