@@ -21,9 +21,6 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/9a3765d7-060b-441f-b705-89c87a8f4da0)
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/a4aa240e-7221-499e-a038-f483d1588921)
-![image](https://github.com/HappyToster/SQL/assets/97261554/a8f28f36-3520-47a6-8017-6cfb9ef33b1f)
-
 ### Read
 #### Простые селекты
 :white_check_mark: Список баз данных:
@@ -32,7 +29,7 @@ _____
 
 :white_check_mark: Список таблиц в базе:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/7eb24c5a-d74f-4870-ac65-95ce79dfc945)
+![image](https://github.com/HappyToster/SQL/assets/97261554/fcf5b326-315d-44ae-8cf4-03ff00d0e59f)
 
 :white_check_mark: Выборка всех данных из таблицы:
 
