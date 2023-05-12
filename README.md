@@ -13,8 +13,7 @@
     1. [Insert](#insert)
     2. [Set](#set)
     3. [Change](#change)
-4. [Delete](#delete)
-
+    
 _____
 ### Create
 :white_check_mark: Создание таблицы:
@@ -244,9 +243,4 @@ _____
 
 ![Alt-текст](https://i.imgur.com/YjX0ocn.jpeg)
 
-[:arrow_up:Вернуться к оглавлению](#оглавление)
-
-_____
-
-### Delete
 [:arrow_up:Вернуться к оглавлению](#оглавление)
