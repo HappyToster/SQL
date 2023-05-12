@@ -31,7 +31,7 @@ _____
 
 :white_check_mark: Список таблиц в базе:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/fcf5b326-315d-44ae-8cf4-03ff00d0e59f)
+![image]([https://github.com/HappyToster/SQL/assets/97261554/fcf5b326-315d-44ae-8cf4-03ff00d0e59f](https://i.imgur.com/u6uodG5.jpeg))
 
 :white_check_mark: Выборка всех данных из таблицы:
 
