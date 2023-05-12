@@ -19,13 +19,15 @@ _____
 ### Create
 :white_check_mark: Создание таблицы:
 
+![Alt-текст](https://github.com/HappyToster/SQL/assets/97261554/24ab783c-d2d8-448c-a1b8-6ba150951ca7) "Орк")
+
 ![image](https://github.com/HappyToster/SQL/assets/97261554/a8f28f36-3520-47a6-8017-6cfb9ef33b1f)
 
 ### Read
 #### Простые селекты
 :white_check_mark: Список баз данных:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/350da904-e02c-475d-9c81-3c0da632fe93)
+![image]([https://github.com/HappyToster/SQL/assets/97261554/350da904-e02c-475d-9c81-3c0da632fe93](https://github-production-user-asset-6210df.s3.amazonaws.com/97261554/237136051-350da904-e02c-475d-9c81-3c0da632fe93.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230512T010839Z&X-Amz-Expires=300&X-Amz-Signature=c74596378082c986aea868c1edea79ac6669f1729b37c8ed80556599349c470c&X-Amz-SignedHeaders=host&actor_id=97261554&key_id=0&repo_id=637644986))
 
 :white_check_mark: Список таблиц в базе:
 
