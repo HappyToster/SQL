@@ -94,56 +94,56 @@ _____
 #### Групповые запросы
 :white_check_mark: Количество позиций по определенной категории, сортировка по названию категории (по алфавиту):
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/cb90afc4-38e4-4410-be39-8cb89c376e89)
+![Alt-текст](https://i.imgur.com/66ODg1H.jpeg)
 
 :white_check_mark: Общая стоимость и количество позиций по категориям:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/9b828ec2-fbf9-436a-a3a6-9c31439315c2)
+![Alt-текст](https://i.imgur.com/q0O19R3.jpeg)
 
 :white_check_mark: Общая стоимость всех товаров из категории "Электроинструмент":
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/69c8f926-201c-406f-98d8-d50d8f4cb88f)
+![Alt-текст](https://i.imgur.com/eS8N5Gd.jpeg)
 
 :white_check_mark: Общая стоимость и количество товаров в категории "Бокорезы, кусачки":
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/b9530650-9ffa-43e7-8b33-754aea90c7dd)
+![Alt-текст](https://i.imgur.com/JRVxaEr.jpeg)
 
 :white_check_mark: Минимальная стоимость товаров в категории "Модельный скотч":
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/44f83f7e-7b97-470f-8f67-c22414de9f04)
+![Alt-текст](https://i.imgur.com/jHMRrer.jpeg)
 
 :white_check_mark: Средняя стоимость товаров в категориях:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/bd114957-df0b-4791-8c85-8a3826353271)
+![Alt-текст](https://i.imgur.com/0nNh7vZ.jpeg)
 
 :white_check_mark: Общее количество товаров по категориям:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/a5c5c508-b412-488d-8595-daa1c0d2843d)
+![Alt-текст](https://i.imgur.com/0oqpurP.jpeg)
 
 :white_check_mark: Общее количество товаров в магазине:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/7cb53c4b-fe11-4137-a887-4d82b5bfbf95)
+![Alt-текст](https://i.imgur.com/ySq8FoD.jpeg)
 
 :white_check_mark: Средняя стоимость товаров в магазине:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/2e616ac3-9acf-4ee6-9a78-30d4afdbfb4b)
+![Alt-текст](https://i.imgur.com/2P5QwFe.jpeg)
 
 :white_check_mark: Максимальная и минимальная цена товаров, общая сумма которых >10000:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/e5ff54b2-f0bb-4b0f-88ea-314609615b57)
+![Alt-текст](https://i.imgur.com/rcyJqZE.jpeg)
 
 :white_check_mark: Максимальная и минимальная цена товаров, общая сумма которых больше 10000,
 исключая категорию "Электроинструмент":
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/c64b0f44-e9a0-41ee-8dac-69cd6b9b6aff)
+![Alt-текст](https://i.imgur.com/GEjtjae.jpeg)
 
 :white_check_mark: Товары с минимальной стоимостью в каждой категории:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/76e3c3cb-345d-48dd-888f-a7914f1fd0f4)
+![Alt-текст](https://i.imgur.com/5193Ex9.jpeg)
 
 :white_check_mark: Товар с наименьшей ценой:
 
-![image](https://github.com/HappyToster/SQL/assets/97261554/95514843-55d3-4439-80f1-62cb370929c7)
+![Alt-текст](https://i.imgur.com/PU1lbog.jpeg)
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
