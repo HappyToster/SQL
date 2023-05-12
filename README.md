@@ -227,7 +227,7 @@ _____
 _____
 
 #### Set
-:white_check_mark: Изменение данных в ячейках:
+:white_check_mark: Обновление данных в ячейках:
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/b6c5e449-13ba-40a8-9462-6ea12aad8f02)
 
