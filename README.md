@@ -19,6 +19,8 @@ _____
 ### Create
 :white_check_mark: Создание таблицы:
 
+![Alt-текст](https://github-production-user-asset-6210df.s3.amazonaws.com/97261554/237845246-9a3765d7-060b-441f-b705-89c87a8f4da0.png "МК")
+
 ![image](https://github.com/HappyToster/SQL/assets/97261554/9a3765d7-060b-441f-b705-89c87a8f4da0)
 
 ### Read
