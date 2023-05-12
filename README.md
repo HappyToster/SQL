@@ -222,7 +222,10 @@ _____
 
 ![image](https://github.com/HappyToster/SQL/assets/97261554/71c6d425-3392-4a24-95bd-8fec4979017e)
 
-:white_check_mark: В связанных таблицах:
+:white_check_mark: В связанных таблицах. Добавление в таблицу unactive_user пользователей, которые не совершали ни одной покупки:
+
+![image](https://github.com/HappyToster/SQL/assets/97261554/8d3c827c-525a-41c1-992a-a76879407a28)
+
 
 [:arrow_up:Вернуться к оглавлению](#оглавление)
 
