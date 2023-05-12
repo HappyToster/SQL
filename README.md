@@ -19,8 +19,7 @@ _____
 ### Create
 :white_check_mark: Создание таблицы:
 
-![Alt-текст](https://github.com/HappyToster/SQL/assets/97261554/24ab783c-d2d8-448c-a1b8-6ba150951ca7) "Орк")
-
+![image](https://github.com/HappyToster/SQL/assets/97261554/a4aa240e-7221-499e-a038-f483d1588921)
 ![image](https://github.com/HappyToster/SQL/assets/97261554/a8f28f36-3520-47a6-8017-6cfb9ef33b1f)
 
 ### Read
