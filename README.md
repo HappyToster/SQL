@@ -25,7 +25,7 @@ _____
 #### Простые селекты
 :white_check_mark: Список баз данных:
 
-![Alt-текст](https://i.imgur.com/brm4cdd.jpeg)
+![Alt-текст](https://i.imgur.com/gz91vqa.jpeg)
 
 :white_check_mark: Список таблиц в базе:
 
